@@ -3,7 +3,6 @@
 //  FirebaseLoginnn
 //
 //  Created by Eli Hersher on 4/17/20.
-//  Copyright © 2020 Bala. All rights reserved.
 //
 
 import Foundation
