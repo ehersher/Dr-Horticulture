@@ -3,7 +3,6 @@
 //  FirebaseLoginnn
 //
 //  Created by Eli Hersher on 2/13/20.
-//  Copyright © 2020 Bala. All rights reserved.
 //
 
 import SwiftUI
